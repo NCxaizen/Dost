@@ -1,0 +1,42 @@
+export const Data=[
+    {
+        id:"1",
+        name:"Nitin",
+        profession:"SWE"
+    },
+    {
+        id:"2",
+        name:"Aditi",
+        profession:"UI/UX"  
+    },
+    {
+        id:"3",
+        name:"Karan",
+        profession:"Actor"
+    },
+    {
+        id:"4",
+        name:"Harsh",
+        profession:"Gunda"
+    },
+    {
+        id:"5",
+        name:"Diya",
+        profession:"DIDI"
+    },
+    {
+        id:"6",
+        name:"Jijo",
+        profession:"mutt marna"
+    },
+    {
+        id:"7",
+        name:"Akanksha",
+        profession:"-"
+    },
+    {
+        id:"8",
+        name:"Negi",
+        profession:"soch raha hai"
+    }
+]
